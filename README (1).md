@@ -16,9 +16,11 @@ app's minimalist and clean UI/UX design
 provides an intuitive and easy-to-use
 interface for users.
 
+
+URL - https://decentralized-chat-app-phi.vercel.app
 ## Tech Stack
 
-React.JS, Angular.JS, Tailwind CSS, Framer Motion, Google
+React.JS, Gun.JS, Tailwind CSS, Framer Motion, Google
 Cloud Translation API, Perspective API (ML
 library to identify "toxic" contents),
 MetaMask Wallet Integration, GitHub,
@@ -56,6 +58,7 @@ Then to run the development server:
 ```bash
  npm run dev
 ```
+Open http://localhost:5173 and you'll be able to see the page appear.
 
 ## Features Completed
 
@@ -70,4 +73,16 @@ Then to run the development server:
 - **In-app Profanity Filter**: The system filters out swear or bad words, replacing them with asterisks to ensure a more positive and respectful user experience.
 - **Customizable User Profile**: Users can upload custom avatars and set nicknames, personalizing their profile and expressing their identity.
 - **Chat Group Search Feature**: The system includes a chat group search feature with a stunning UI, making it easy for users to find and join groups that align with their interests
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at phyohan1234@gmail.com
+
+
+## Authors
+
+- [@phyohan18](https://www.github.com/phyohan18)
+
+
 
